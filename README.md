@@ -9,7 +9,7 @@ creates random users that can join the room. The software uses [sinatra] and
 
 ## Setup
 
-Get your own eyeson API key at [accounts.eyeson.team/projects]. Create a new
+Get your own eyeson API key at [developers.eyeson.team/projects]. Create a new
 project at heroku and set the `EYESON_API_KEY` as config variable in the heroku
 project settings. Download the repository, push the files to trigger the heroku
 build and deploy pipeline. Afterwards visit your application at
