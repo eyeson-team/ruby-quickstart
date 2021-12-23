@@ -22,6 +22,6 @@ $ heroku git:remote -a <heroku-project-name>
 $ git push heroku master
 ```
 
-[accounts.eyeson.team/projects]: https://accounts.eyeson.team/projects "eyeson API projects"
+[developers.eyeson.team/projects]: https://developers.eyeson.team/projects "eyeson API projects"
 [sinatra]: http://sinatrarb.com/ "Sinatra, ruby web application framework"
 [heroku]: https://www.heroku.com/ "Heroku, platform as a service (PaaS)"
